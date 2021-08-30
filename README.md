@@ -82,6 +82,12 @@
       <strong>Youtube</strong>
       </a>
     </li>
+    <li>
+      <strong>
+        📖   <a href="https://yeyee2901.github.io/my-wiki/" target="_blank">Personal Wiki (lang: 🇮🇩)</a>
+      </strong>
+    </li>
+    
   </ul>
   
   
