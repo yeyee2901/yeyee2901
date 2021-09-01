@@ -4,10 +4,10 @@
   <h3>About</h3>
   <ul>
     <li>
-        My name is <strong style='color: red;'>Gabriel Sebastian Hidayat</strong>, 
+        My name is <strong>Gabriel Sebastian Hidayat</strong>, 
         but I'm better known simply as
-        <strong style='color: red'>yeye</strong> and I would prefer it if you
-        call me <strong style='color: red'>yeye</strong> ( ˘ω˘ )
+        <strong>yeye</strong> and I would prefer it if you
+        call me <strong>yeye</strong> ( ˘ω˘ )
     </li>
     <li>
         Currently studying at <strong>Widya Mandala Catholic University</strong> 🇮🇩
@@ -48,19 +48,23 @@
   <h3>Fun Facts</h3>
   <ul>
     <li>
-      <strong style='color: yellow;'>I love playing  🎸🔥</strong>,
+      <strong>I love playing  🎸🔥</strong>,
       I practiced 6-8 hours straight back in 2014 for about 2 years. Now I barely have
       any time to practice seriously. But I still retain the 
-      <strong style='color: red'>shredddd</strong> I have cultivated. Oh, and I
-      absolutely love <strong style='color: green;'>Queen</strong>
-      & <strong style='color: green;'>Polyphia</strong>.
+      <strong>shredddd</strong> I have cultivated. Oh, and I
+      absolutely love <strong>Queen</strong>
+      & <strong>Polyphia</strong>.
     </li>
     <li>
-      <strong style='color: yellow;'>I also play 🎹</strong>, but I'm getting quite
+      <strong>I also play 🎹</strong>, but I'm getting quite
       rusty at reading piano scores, so don't expect much. (;´༎ຶД༎ຶ`)
     </li>
     <li>
-      <strong style='color: yellow;'>Straight-Dog-Person 🐕</strong>
+      <strong>Straight-Dog-Person 🐕</strong>
+    </li>
+    <li>
+      <strong>Gruvbox is my go to theme</strong>, personal favorite: 
+      <a href='https://github.com/sainnhe/gruvbox-material'>sainnhe/gruvbox-material</a>
     </li>
   
   </ul>
