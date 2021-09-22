@@ -96,7 +96,7 @@
   
   <!-- Github status API -->
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeyee2901&show_icons=true&theme=gruvbox&langs_count=8&hide=vim snippet,cmake,smarty,html" alt=""/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeyee2901&show_icons=true&theme=gruvbox&langs_count=8&hide=vim snippet,cmake,smarty,html,jupyter notebook" alt=""/>
   </div>
   
 </body>
