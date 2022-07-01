@@ -50,11 +50,6 @@
     <li>
       <strong>Straight-Dog-Person 🐕</strong>
     </li>
-    <li>
-      <strong>Gruvbox is my go to theme</strong>, personal favorite: 
-      <a href='https://github.com/sainnhe/gruvbox-material'>sainnhe/gruvbox-material</a>
-    </li>
-  
   </ul>
 
   
