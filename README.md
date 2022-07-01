@@ -2,23 +2,11 @@
   <h1 align='center'>🍌 Welcome 🍌</h1>
   
   <h3>About</h3>
-  <ul>
-    <li>
         My name is <strong>Gabriel Sebastian Hidayat</strong>, 
         but I'm better known simply as
         <strong>yeye</strong> and I would prefer it if you
         call me <strong>yeye</strong> ( ˘ω˘ )
-    </li>
-    <li>
-        Currently studying at <strong>Widya Mandala Catholic University</strong> 🇮🇩
-        , taking the Electrical Engineering 🤖 degree. Now 4th year!</li>
-    </li>
-    <li>
-        Despite studying in EE degree, I have a huge passion for software engineering, and
-        as such, have also studied programming along my EE study. And that's why I also
-        love tinkering with embedded-systems (microcontrollers)!<br><br>
-    </li>
-  </ul>
+
   <img src="https://www.rustacean.net/assets/rustacean-flat-happy.png" width='80px' align='bottom' alt=""/>
   I'm actually a bit interested in Rust since I see it may become the potential
   alternatives for Embedded Systems, because it's a low-level language, provides
