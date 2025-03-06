@@ -1,5 +1,5 @@
 <body>
-  <h1 align='center'>🍌 IRASSHAIMASE~ 🍌</h1>
+  <h1 align='center'> IRASSHAIMASE~ </h1>
   
   <h3>About</h3>
         My name is <strong>Gabriel Sebastian Hidayat</strong>, 
